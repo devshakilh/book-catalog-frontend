@@ -16,11 +16,11 @@
 - Used React.js as the frontend library.
 - Used Bootstrap for css framework.
 
-### Frontend Live Link: https://book-self-me.netlify.app/
+### Frontend Live Link: https://book-catalog-frontend-psi.vercel.app/
 
-### Frontend Code Link: https://github.com/majharul-web/book-catalog-frontend
+### Frontend Code Link: https://github.com/shakilla1/book-catalog-frontend
 
-### Backend Code Link: https://github.com/majharul-web/book-catalog-backend
+### Backend Code Link: https://github.com/shakilla1/book-catalog-backend
 
 ### Backend server Link: https://book-catalog-backend-rose.vercel.app/
 
